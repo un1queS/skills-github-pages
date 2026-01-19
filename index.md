@@ -1,12 +1,26 @@
-layout: home
-title: "Главная страница"
-description: "Добро пожаловать на мой сайт"
+title: "Ваше Имя | Портфолио"
+description: "Портфолио веб-разработчика"
+baseurl: ""
+url: "https://username.github.io"
+theme: minima
 
-# Добро пожаловать! 👋
+author:
+  name: "Ваше Имя"
+  email: "ваш@email.com"
+  github: "ваш-username"
+  linkedin: "ваш-id"
 
-Это мой сайт, размещенный на GitHub Pages.
+# Настройки навигации
+header_pages:
+  - about.md
+  - projects.md
+  - blog.md
+  - contact.md
 
-### 1. Добавьте контент
-Создавайте страницы в формате Markdown (.md) или HTML
-
-### 2. Структура
+# Кастомизация темы minima
+minima:
+  skin: dark  # или classic, auto, solarized
+  social_links:
+    - { platform: github, user_url: "https://github.com/ваш-username" }
+    - { platform: linkedin, user_url: "https://linkedin.com/in/ваш-id" }
+    - { platform: twitter, user_url: "https://twitter.com/ваш-username" }
