@@ -46,6 +46,4 @@ permalink: /
 
 ---
 
----
-
 *© [un1ques] {{ site.time | date: '%Y' }}. Этот сайт создан с помощью Jekyll и размещен на GitHub Pages.*
