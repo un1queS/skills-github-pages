@@ -7,7 +7,7 @@
 
 ### Проект 2: Простой генератор паролей на Flask.
 - Технологии: Python, Html, CSS  
-- Ссылка: (ссылка) (https://github.com/un1queS/passwords)
+- Ссылка: [ссылка] [https://github.com/un1queS/passwords]
 - Простой генератор паролей н Flask с возможностью хранения их в базе данных
 
 ---
