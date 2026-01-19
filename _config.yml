@@ -1,0 +1,22 @@
+title: "Мой сайт на GitHub Pages"
+description: "Описание моего сайта"
+baseurl: "Portfolio"
+url: "https://ваш-username.github.io"
+
+theme: minima # или другая тема
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+author:
+  name: "Ваше Имя"
+  email: "ваш@email.com"
+
+markdown: kramdown
+permalink: pretty
+
+safe: false
+
+header_pages:
+  - about.md
+  - contact.md
