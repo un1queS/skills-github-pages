@@ -2,12 +2,12 @@
 
 ### Проект 1: CloudSafe - Облачное хранилище файлов
 - Технологии: Python, Html, CSS
-- Ссылка: [https://github.com/un1queS/petProject/tree/main]
+- Ссылка: [ссылка] [https://github.com/un1queS/petProject/tree/main]
 - Веб-приложение для хостинга файлов, построенное на Flask. Позволяет пользователям загружать, хранить, скачивать и управлять своими файлами через удобный веб-интерфейс.
 
 ### Проект 2: Простой генератор паролей на Flask.
 - Технологии: Python, Html, CSS  
-- Ссылка: [https://github.com/un1queS/passwords]
+- Ссылка: [ссылка] [https://github.com/un1queS/passwords]
 - Простой генератор паролей н Flask с возможностью хранения их в базе данных
 
 ---
